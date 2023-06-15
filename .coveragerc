@@ -1,0 +1,6 @@
+[run]
+omit = 
+        ./scikit-surgerytutorial02-test/_version.py
+        ./scikit-surgerytutorial02-test/__init__.py
+        ./scikit-surgerytutorial02-test/__main__.py
+        ./scikit-surgerytutorial02-test/ui/scikit-surgerytutorial02-test_command_line.py
